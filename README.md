@@ -1,4 +1,4 @@
 #Authors
-LAMI Xavier
-DEMONT Eliott
-BOURDELEIX  Mael
+LAMI Xavier - xavier.lami@edu.devinci.fr
+DEMONT Eliott- eliott.demont@edu.devinci.fr
+BOURDELEIX  Mael mael.bourdeleix@edu.devinci.fr
